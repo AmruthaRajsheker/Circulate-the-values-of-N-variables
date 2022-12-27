@@ -6,7 +6,7 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
-Get the values to be circulated from the user
+Define a function circulate
 ### Step 2: 
 Get the value from the user for the number of rotations
 ### Step 3: 
@@ -14,6 +14,8 @@ Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
 ### Step 5: 
+Print the values after cieculating
+### Step 6: 
 End the program
 
 ## Program:
@@ -28,6 +30,6 @@ def circulate():
     print ("After circulating the values are:",l)
 ```
 ## Output:
-[output](/res.png)
+!['output'](/res.png)
 ## Result:
 Thus the program to circuate the values of n variables is successfully executed
